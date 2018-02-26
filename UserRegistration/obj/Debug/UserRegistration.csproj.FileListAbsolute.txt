@@ -1,0 +1,10 @@
+c:\users\lp2user\source\repos\UserRegistration\UserRegistration\bin\Debug\UserRegistration.exe.config
+c:\users\lp2user\source\repos\UserRegistration\UserRegistration\bin\Debug\UserRegistration.exe
+c:\users\lp2user\source\repos\UserRegistration\UserRegistration\bin\Debug\UserRegistration.pdb
+c:\users\lp2user\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csprojResolveAssemblyReference.cache
+c:\users\lp2user\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.Form1.resources
+c:\users\lp2user\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.Properties.Resources.resources
+c:\users\lp2user\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csproj.GenerateResource.Cache
+c:\users\lp2user\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.csproj.CoreCompileInputs.cache
+c:\users\lp2user\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.exe
+c:\users\lp2user\source\repos\UserRegistration\UserRegistration\obj\Debug\UserRegistration.pdb
